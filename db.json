@@ -1,0 +1,38 @@
+{
+    "permissions": [
+        {
+            "code": "SHOW_MENU_DASHBOARD",
+            "enabled": true,
+            "category": {
+                "ulid": "01EWDFJHJT0HKL0EGXGHXYE170",
+                "code": "DASHBOARD"
+            },
+            "applications": [
+                "KOTSCAN_ADMIN"
+            ]
+        },
+        {
+            "code": "CAN_SEE_DASHBOARD",
+            "enabled": true,
+            "category": {
+                "ulid": "01EWDFJHJT0H5DUIEGXGHXYE280",
+                "code": "DASHBOARD"
+            },
+            "applications": [
+                "KOTSCAN_ADMIN"
+            ]
+        },
+        {
+            "code": "CAN_EXPORT_DASHBAORD",
+            "enabled": true,
+            "category": {
+                "ulid": "01EWDFJHJT0H5BIJIEGXGHXYE280",
+                "code": "DASHBOARD"
+            },
+            "applications": [
+                "KOTSCAN_ADMIN"
+            ]
+        }
+      
+    ]
+}
